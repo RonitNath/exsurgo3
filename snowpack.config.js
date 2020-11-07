@@ -7,6 +7,12 @@ module.exports = {
     '@snowpack/plugin-svelte',
     '@snowpack/plugin-dotenv',
   ],
+  extends: "@snowpack/app-scripts-svelte",
+  scripts: {
+    "run:tsc": "tsc --noEmit",
+    "run:tsc::watch": "$1 --watch",
+    "build:css": "postcss"
+  },
   install: [
     /* ... */
   ],

@@ -1,0 +1,35 @@
+
+
+<section id="Home" class="bg-white border-b py-8">
+    
+    
+    
+	<div class="container mx-auto pt-20 ">
+        
+
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+            viewBox="0 0 1024 512" style="enable-background:new 0 0 1024 512;" xml:space="preserve">
+        <style type="text/css">
+            .st0{opacity:0;}
+            .st1{fill:#000000 ;}
+            .st2{font-family:'CenturyGothic';}
+            .st3{font-size:174.2732px;}
+            .st4{fill:#F7931E;stroke:#F7931E;stroke-width:3;stroke-miterlimit:10;}
+        </style>
+        <rect x="0" class="st0" width="1023.8" height="512"/>
+        <text transform="matrix(1.0527 0 0 1 225.2212 306.5684)" class="st1 st2 st3">exsurgo</text>
+        <polygon class="st4" points="371.8,142.3 332.2,41 294.5,142.3 "/>
+        <polygon class="st4" points="276.4,146.9 175.8,114.6 223.8,200.6 "/>
+        <polygon class="st4" points="214.9,222.5 117,262.9 215.4,295.8 "/>
+        <polygon class="st4" points="293.9,377.1 336.4,470.6 371.2,377.7 "/>
+        <polygon class="st4" points="389.8,147.4 490.3,115.1 442.3,201.2 "/>
+        <polygon class="st4" points="275.5,370.6 174.9,403 222.9,316.9 "/>
+        <polygon class="st4" points="389.8,370.5 490.3,402.8 442.3,316.8 "/>
+        </svg>
+
+        
+    </div>
+    
+
+</section>
+
