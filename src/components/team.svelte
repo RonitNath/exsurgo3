@@ -34,6 +34,17 @@
 
 		</div>
 		
+		<div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
+			<div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
+				<a href="#team" class="flex flex-wrap no-underline hover:no-underline">
+					<p class="w-full text-gray-600 text-xs md:text-sm px-6">VPXO</p>
+					<div class="w-full font-bold text-xl text-gray-800 px-6">Nikita Melwani</div>
+					<p class="text-gray-800 text-base px-6 mb-5">
+					</p>
+				</a>
+			</div>
+
+		</div>
 		
 		
 		<div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
@@ -63,7 +74,7 @@
 		<div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
 			<div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
 				<a href="#team" class="flex flex-wrap no-underline hover:no-underline">
-					<p class="w-full text-gray-600 text-xs md:text-sm px-6">Outreach</p>
+					<p class="w-full text-gray-600 text-xs md:text-sm px-6">Director of Communications</p>
 					<div class="w-full font-bold text-xl text-gray-800 px-6">Melinda Zou</div>
 					<p class="text-gray-800 text-base px-6 mb-5">
 					</p>
@@ -84,7 +95,6 @@
 
 		</div>
 		
-		<div class="w-full md:w-1/6 p-6 flex flex-col flex-grow flex-shrink"></div>
 
 		<div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
 			<div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
@@ -110,7 +120,6 @@
 
 		</div>
 
-		<div class="w-full md:w-1/6 p-6 flex flex-col flex-grow flex-shrink"></div>
 
 
 		

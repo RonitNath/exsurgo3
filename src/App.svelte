@@ -21,15 +21,18 @@
 
 <body>
 
+
 <Header />
 
 <Home />
 
+
 <Events />
 
+<div class="bg-gradient-to-b from-white to-orange-600">
 <Partners />
-
 <About />
+</div>
 
 <Sponsors />
 

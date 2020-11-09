@@ -1,6 +1,6 @@
 
 
-<section id="Home" class="bg-white border-b py-8">
+<section id="About" class="bg-white border-b py-8">
     
     
     

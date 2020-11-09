@@ -6,4 +6,4 @@
       "types": ["svelte"],
       "moduleResolution": "node"
     }
-  }
+}

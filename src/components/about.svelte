@@ -1,6 +1,6 @@
 
-<section id="About" class="bg-white border-b py-8">
-    <div class="container max-w-5xl mx-auto m-8">
+<section id="About" class=" border-b py-8 bg-gradient-to-t from-white to-orange-400" >
+    <div class="container max-w-5xl mx-auto m-8 ">
         <h1 class="w-full my-0 text-5xl font-bold leading-tight text-center text-gray-800 p-6">Mission</h1>
         
         <div class="w-full mb-4">	
@@ -20,18 +20,18 @@
                 
             </div>
             <div class="w-full sm:w-1/2 p-6">
-                <img src="assets/berkeley.jpg" alt="Berkeley's Sather tower from the memorial glade">
+                <img src="assets/haas.jpg" alt="Berkeley's Sather tower from the memorial glade">
             </div>
         </div>
         
         
         <div class="flex flex-wrap flex-col-reverse sm:flex-row">	
             <div class="container mx-auto w-full sm:w-1/2 p-6 mt-6 object-">
-                <img src="assets/haas.jpg" alt="an entrance to the Haas school of business">
+                <img src="assets/berkeley.jpg" alt="an entrance to the Haas school of business">
                 </div>
             <div class="w-full sm:w-1/2 p-6 mt-6">
                 <div class="align-middle">
-                    <h3 class="text-2xl text-gray-800 font leading-2 mb-3 text-center">
+                    <h3 class="text-3xl text-gray-800 font leading-2.3 mb-3 text-center">
                         We work with top campus consulting clubs, professors, and entrepreneurs to bring you comprehensive workshops on consulting, 
                         resume building, and networking!
                     </h3>

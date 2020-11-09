@@ -12,21 +12,31 @@
 
 
 
-<section id="Partners" class="bg-white border-b py-8 text-center">
+<section id="Partners" class=" py-8 text-center bg-gradient-to-b from-white to-orange-400 ">
 
-    <div class="container mx-auto flex flex-wrap pt-4 pb-12">
+    <div class="container mx-auto pt-4 pb-12 ">
 
-        <h1 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800 m-4">Partners</h1>
+        <h1 class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800 m-4 mb-10"> Partners</h1>
 
-        <ul class='circle-container'>
-            <li class='grow'><img src="/assets/partners/bbs.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/pcg.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/hcg.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/bc.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/ufa.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/vcg.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/nothing.png" alt="x"/></li>
-            <li class='grow'><img src="/assets/partners/delta.png" alt="x"/></li>
+        <!-- <ul class='container flex flex-col md:flex-row flex-grow flex-shrink md:flex-row items-center '>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/bbs.png"   alt="Berkeley Business Society"/></li></div>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/pcg.png"   alt="Phoenix Consulting Group"/></li></div>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/hcg.png"   alt="Healthcare Consulting Group"/></li></div>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/bc.png"    alt="Berkeley Consulting"/></li></div>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/ufa.png"   alt="Undergraduate Financial Association"/></li></div>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/vcg.png"   alt="Valley Consulting Group"/></li></div>
+            <div class='bg-black h-10 w-full'><li class='object-fill'><img src="/assets/partners/delta.png" alt="Delta Consulting Group"/></li></div>
+         </ul> -->
+
+         <ul class='circle-container'>
+            <li class='grow'><img src="/assets/partners/bbs.png"   alt="Berkeley Business Society"/></li>
+            <li class='grow'><img src="/assets/partners/pcg.png"   alt="Phoenix Consulting Group"/></li>
+            <li class='grow'><img src="/assets/partners/hcg.png"   alt="Healthcare Consulting Group"/></li>
+            <li class='grow'><img src="/assets/partners/bc.png"    alt="Berkeley Consulting"/></li>
+            <li class='grow'><img src="/assets/partners/ufa.png"   alt="Undergraduate Financial Association"/></li>
+            <li class='grow'><img src="/assets/partners/vcg.png"   alt="Valley Consulting Group"/></li>
+            <li class='grow'><img src="/assets/partners/nothing.png"   alt=""/></li>
+            <li class='grow'><img src="/assets/partners/delta.png" alt="Delta Consulting Group"/></li>
          </ul>
 
     </div>
@@ -57,7 +67,7 @@
                 width: 1.2em;
 
                 &.grow {
-                    transition: all .8s ease-in-out;
+                    transition: all .8s ease-in;
 
                     &:hover {
                        transform: scale(1.5);
